@@ -2,8 +2,6 @@ body {
     font-family: 'Montserrat', sans-serif;
     margin: 0;
 }
-
-/* font-family: 'Manrope', sans-serif; */
 .orange-color {
     color: #FBA24F;
 }
@@ -70,7 +68,33 @@ header {
 .banner-img img {
     width: 100%;
 }
-
+.about-part {
+    background: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    padding-top: 50px;
+}
+.about-content {
+    margin-top: 150px;
+}
+.about-content h2 {
+    font-size: 40px;
+    font-weight: 700;
+    color: #707070;
+}
+.about-content p {
+    font-size: 18px;
+    font-weight: 400;
+    color: #18191F;
+    font-family: 'Manrope', sans-serif;
+    margin-bottom: 90px;
+    margin-top: 50px;
+    padding-right: 75px;
+}
+.about-img img {
+    width: 80%;
+}
 
 
 
