@@ -180,6 +180,7 @@ header {
     border-radius: 30px;
     outline: none;
     background: no-repeat;
+    font-family: 'Montserrat', sans-serif;
 }
 #space-right {
     margin-right: 3%;
