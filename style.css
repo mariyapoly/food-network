@@ -161,3 +161,39 @@ header {
 .single-counter p {
     color: #18191F;
 }
+.contact-part {
+    text-align: center;
+    background: url(images/shapes/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    padding: 90px 5%;
+}
+.contact-info {
+    margin-bottom: 20px;
+}
+.contact-info input {
+    width: 44%;
+    padding: 15px 25px;
+    border: 1px solid #18191F;
+    border-radius: 30px;
+    outline: none;
+    background: no-repeat;
+}
+#space-right {
+    margin-right: 3%;
+}
+.contact-part textarea {
+    width: 95.7%;
+    padding: 15px 25px;
+    height: 200px;
+    border-radius: 30px;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 20px;
+    border: 1px solid #18191F;
+    outline: none;
+    background: no-repeat;
+}
+.contact-part button {
+    border: none;
+}
