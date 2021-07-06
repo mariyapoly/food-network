@@ -101,6 +101,7 @@ header {
 }
 .recipe-part {
     padding: 50px 0 125px;
+    margin: 0 3%;
 }
 .section-title {
     text-align: center;
@@ -141,7 +142,7 @@ header {
     width: 100%;
 }
 .counter-part {
-    width: 95%;
+    width: 90%;
     margin: 0 auto;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.25);
     border-radius: 15px;
@@ -197,3 +198,13 @@ header {
 .contact-part button {
     border: none;
 }
+footer {
+    background-color: #0B0D17;
+    text-align: center;
+    padding: 45px 0 110px;
+}
+footer p {
+    color: #FFFFFF;
+    margin-top: 35px;
+}
+
